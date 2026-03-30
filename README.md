@@ -4,7 +4,7 @@ A machine learning model that predicts departure delays for United Airlines flig
 
 ## 🌐 Live Demo
 
-Visit the live demo: [https://mitchellchen03.github.io/Flight_Ai/)
+Visit the live demo: [https://jadryan0323.github.io/Flght-Departure-Delay-Predictor-AI/)
 
 ## 📊 Model Performance
 

@@ -11,7 +11,7 @@ Visit the live demo: [https://mitchellchen03.github.io/Flight_Ai/)
 - **Accuracy (R²)**: 73.9%
 - **RMSE**: 7.04 minutes
 - **MAE**: 4.69 minutes
-- **Dataset**: 69,827 United Airlines flights
+- **Dataset**: 69,827 United Airlines flights, NCEI CLIMATA DATA, Aviation Weather Center
 - **Features**: 77 engineered features
 
 ## 🚀 Features
